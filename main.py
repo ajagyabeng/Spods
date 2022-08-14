@@ -32,7 +32,7 @@ class Spods(db.Model):
     date_added = db.Column(db.String())
 
 
-db.create_all()
+# db.create_all()
 
 
 # Add items to database
